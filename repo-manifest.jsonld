@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/allenai/kernel-fun/commit/662db70bf9b54e1e2ed77479ff495c9bee489bae",
       "git:hexsha": "662db70bf9b54e1e2ed77479ff495c9bee489bae",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.0",
+      "repolex:parsedAt": "2026-11-07T20:38:16.282616+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/kernel-fun/commit/77ddffbae9653a41340dbd02d57333609fa9fc67",
