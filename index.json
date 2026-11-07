@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "kernel-fun",
+  "versions": [
+    {
+      "commit": "662db70bf9b54e1e2ed77479ff495c9bee489bae",
+      "tag": "v0.2.0",
+      "parsed_at": "2026-11-07T20:38:16.283111+00:00"
+    }
+  ]
+}
