@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/kernel-fun/commit/662db70bf9b54e1e2ed77479ff495c9bee489bae",
       "git:hexsha": "662db70bf9b54e1e2ed77479ff495c9bee489bae",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.2.0"
     },
     {
